@@ -58,7 +58,7 @@ root2.title("Вошли в систему")
 root2.geometry("300x200")
 root2.configure(bg="purple")
 
-label_pobeda = Label (root2, text="ТЫ КРАСАУЧИК", bg='purple')
+label_pobeda = Label (root2, text="ТЫ КРАСАУЧИК \n с 23 февраля", bg='purple')
 label_pobeda.place(x=105, y=80)
 
 root2.mainloop()
